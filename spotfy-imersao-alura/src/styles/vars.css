@@ -1,4 +1,9 @@
-/* FONT */
+/* Aula 02 */
 :root {
+    /* FONT */
     --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLOR */ /* AULA 03 */
+    --bg-icon: #131313
+    --bg-arrow-color: rgba(0,0,07)
 }
